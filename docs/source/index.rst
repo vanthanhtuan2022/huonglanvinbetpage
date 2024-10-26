@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Hương Lan - CEO Vinbet: Lãnh Đạo Trẻ, Xây Dựng Thương Hiệu Cá Cược Hàng Đầu
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hương Lan <https://vinbet.page/tac-gia/huong-lan-vinbetpage/>`_ tên thật là Lê Thị Ngọc Ánh, sinh ngày 09/05/1990, là CEO và người sáng lập Vinbet, một thương hiệu giải trí trực tuyến hàng đầu tại Việt Nam. Hương Lan đã ghi dấu ấn mạnh mẽ trong ngành công nghiệp cá cược với tầm nhìn chiến lược và sự cống hiến không ngừng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Gia nhập Vinbet từ năm 2017, Hương Lan đã dẫn dắt công ty phát triển mạnh mẽ, tập trung vào việc cải thiện trải nghiệm người dùng và ứng dụng công nghệ hiện đại. Dưới sự lãnh đạo của cô, Vinbet đã trở thành một trong những nhà cái hàng đầu tại thị trường cá cược trực tuyến, với mục tiêu phát triển bền vững và tích cực đóng góp cho cộng đồng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 15 Nguyễn Văn Bảo, Phường 4, Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0368592354. 
 
-.. toctree::
+Email: info@vinbet.page. 
 
-   usage
-   api
+Website: https://vinbet.page/tac-gia/huong-lan-vinbetpage/
+
+#huonglanvinbetpage #tacgiahuonglanvinbetpage #ceohuonglanvinbetpage 
